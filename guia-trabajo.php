@@ -20,5 +20,50 @@
     <?php
         // Código PHP aquí
     ?>
+*/
 
+/**
+Comentarios
+
+    Todo archivo debe estar comentado en la cabecera.
+
+------------------------- >
+<?php
+/**
+* Nombre del archivo
+* Ruta:              /ruta/archivo
+* Fecha Creación:    28/Jun/2023
+*
+* Descripción breve
+*
+* Descripción extensa (opcional)
+*
+* @author           Julio Buitrago <jucesbuitrago@gmail.com>
+* @copyright        2023 Julio Buitrago
+* @license          GPL 2 or later
+* @version          2023-02-06
+* @link             http://www.example.org
+*
+* Revisiones:
+*       Juan (29/Jun/2023)   - Descripción
+*       Valentina (29/Jun/2023)  - Descripción Método modificado
+*                           - Otro cambio  
+*/
+?>
+*/
+
+/**
+    Todos los métodos deben estar comentados.
+*/
+
+/**
+ <?php
+/**
+ * El sistema no está disponible.
+ *
+ * @param string $message
+ * @param array $context
+ * @return null
+ */
+?>
 */
